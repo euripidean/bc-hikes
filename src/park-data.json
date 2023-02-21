@@ -1,0 +1,177 @@
+[ {
+"title": "Grouse Grind",
+"difficulty": "Hard",
+"routeType": "Point to Point",
+"shortDescription": "Explore this 1.8-km point-to-point trail near North Vancouver, British Columbia. Generally considered a challenging route, it takes an average of 1 h 40 min to complete. This is a very popular area for hiking and running, so you'll likely encounter other people while exploring. The best times to visit this trail are April through October. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+"tags": [
+"Hiking",
+"Running",
+"Forest",
+"Partially paved",
+"Views",
+"Wildlife",
+"Wildflowers",
+"Rocky",
+"Historic site",
+"Fee",
+"No dogs"
+],
+"elevationGain": 777,
+"length": 1.8,
+"estimatedTime": "1 h 40 min",
+"park": "Grouse Mountain Park",
+"image": "src/images/GrouseGrind.jpeg",
+"mapLink": ""
+},
+
+{
+"title": "Joffre Lakes",
+"difficulty": "Moderate",
+"routeType": "Out and Back",
+"shortDescription": "Discover this 7.4-km out-and-back trail near Nesuch 3, British Columbia. Generally considered a moderately challenging route. This is a very popular area for camping, hiking, and snowshoeing, so you'll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+"tags": [
+"Kid friendly",
+"Camping",
+"Hiking",
+"Snowshoeing",
+"Running",
+"Forest",
+"Views",
+"Wildlife",
+"Lake",
+"River",
+"Waterfall",
+"Rocky",
+"Snow",
+"Scramble",
+"No dogs"
+],
+"elevationGain": 491,
+"length": 7.4,
+"estimatedTime": "",
+"park": "Joffre Lakes Provincial Park",
+"image": "/src/Images/JoffreLakes.jpeg",
+"mapLink": ""
+},
+
+{
+"title": "Stawamus Chief Trail",
+"difficulty": "Hard",
+"routeType": "Loop",
+"shortDescription": "Check out this 6.0-km loop trail near Squamish, British Columbia. Generally considered a challenging route. This is a very popular area for camping, hiking, and rock climbing, so you'll likely encounter other people while exploring. The best times to visit this trail are March through October. Dogs are welcome, but must be on a leash.",
+"tags": [
+"Dogs on leash",
+"Camping",
+"Hiking",
+"Rock climbing",
+"Views",
+"Wildlife",
+"Rocky",
+"Scramble",
+"Forest",
+"River",
+"Wildflowers"
+],
+"elevationGain": 654,
+"length": 6,
+"estimatedTime": "",
+"park": "Stawamus Chief Park",
+"image": "/src/Images/StawamusChief.jpeg",
+"mapLink": ""
+},
+
+{
+"title": "Garibaldi Lake Trail",
+"difficulty": "Moderate",
+"routeType": "Out and Back",
+"tags": [
+"Backpacking",
+"Camping",
+"Hiking",
+"Snowshoeing",
+"Forest",
+"Lake",
+"Fee",
+"Views",
+"Wildlife",
+"Wildflowers",
+"No dogs"
+],
+"elevationGain": 972,
+"length": 18.2,
+"estimatedTime": "6h 35min",
+"park": "Garibaldi Provincial Park",
+"image": "/src/Images/GaribaldiLake.jpeg",
+"mapLink": ""
+},
+
+{
+"title": "Saint Marks Summit",
+"difficulty": "Moderate",
+"routeType": "Out and Back",
+"shortDescription": "Enjoy this 10.5-km out-and-back trail near West Vancouver, British Columbia. Generally considered a moderately challenging route, it takes an average of 3 h 53 min to complete. This is a very popular area for birding and hiking, so you'll likely encounter other people while exploring. The best times to visit this trail are July through November. Dogs are welcome, but must be on a leash.",
+"tags": [
+"Dogs on leash",
+"Hiking",
+"Bird watching",
+"Forest",
+"Views",
+"Wildlife",
+"Rocky"
+],
+"elevationGain": 587,
+"length": 10.5,
+"estimatedTime": "3h 53min",
+"park": "Cypress Provincial Park",
+"image": "src/Images/SaintMarksSummit.jpeg",
+"mapLink": ""
+},
+
+{
+"title": "Dog Mountain Trail",
+"difficulty": "Moderate",
+"routeType": "Out and Back",
+"shortDescription": "Experience this 5.6-km out-and-back trail near North Vancouver, British Columbia. Generally considered a moderately challenging route, it takes an average of 1 h 34 min to complete. This is a very popular area for hiking, snowshoeing, and running, so you'll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime. Dogs are welcome, but must be on a leash.",
+"tags": [
+"Dogs on leash",
+"Hiking",
+"Snowshoeing",
+"Running",
+"Forest",
+"Views",
+"Wildlife",
+"Lake",
+"Rocky",
+"Snow"
+],
+"elevationGain": 165,
+"length": 5.6,
+"estimatedTime": "1h 34min",
+"park": "Mount Seymour Provincial Park",
+"image": "src/Images/DogMountainTrail.jpeg",
+"mapLink": ""
+},
+
+{
+"title": "Norvan Falls",
+"difficulty": "Moderate",
+"routeType": "Out and Back",
+"shortDescription": "Discover this 13.8-km out-and-back trail near North Vancouver, British Columbia. Generally considered a moderately challenging route, it takes an average of 3 h 38 min to complete. This is a very popular area for hiking and running, so you'll likely encounter other people while exploring. The best times to visit this trail are April through November. Dogs are welcome, but must be on a leash.",
+"tags": [
+"Dogs on leash",
+"Hiking",
+"Running",
+"Forest",
+"River",
+"Waterfall",
+"Wildlife"
+],
+"elevationGain": 345,
+"length": 13.8,
+"estimatedTime": "3h 38min",
+"park": "Lynn Headwaters Regional Park",
+"image": "src/Images/NorvanFalls.jpeg",
+"mapLink": ""
+}]
+
+
