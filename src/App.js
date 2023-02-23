@@ -1,14 +1,12 @@
 import './App.css';
 import Header from './Components/Header/Header';
-import Footer from './Components/Footer/Footer';
-import Navigation from './Components/Navigation/Navigation';
+import { Outlet } from 'react-router-dom';
 
 function App() {
   return (
     <>
     <Header />
-    <Navigation />
-    <Footer />
+    <Outlet />
     </>
   );
 }
