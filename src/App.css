@@ -1,1 +1,16 @@
+/* Colors = 
+#707287
+#9DC0BC
+#B2EDC5
+#BAFFDF
+#C1FFF2 */
 
+body, html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    background-color: #FAF9F6;
+    color: #36454F;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}

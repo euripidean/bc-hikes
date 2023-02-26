@@ -1,0 +1,36 @@
+footer {
+    background-color: #36454F;
+    font-size: 0.75rem;
+    font-weight: 100;
+    color: #FAF9F6;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 1rem;
+}
+
+.footer-links a {
+    color: #FAF9F6;
+    text-decoration: none;
+    font-weight: 400;
+    border-bottom: 1px solid #FAF9F6;
+    padding-bottom: 0.2rem;
+}
+
+.footer-links a:hover {
+    text-transform: uppercase;
+}
+
+.disclaimer {
+    font-size: 0.5rem;
+    text-align: center;
+    font-style: italic;
+
+}

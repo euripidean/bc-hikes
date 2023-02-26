@@ -1,0 +1,14 @@
+.about {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    max-width: 75%;
+    margin: 0 auto;
+    padding-bottom: 8rem;
+}
+
+.about p {
+    font-size: 0.75rem;
+    font-weight: 400;
+
+}

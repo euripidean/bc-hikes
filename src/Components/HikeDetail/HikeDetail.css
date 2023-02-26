@@ -1,0 +1,110 @@
+@media only screen and (max-device-width: 1366px) {
+    .hike-detail-container {
+      background-attachment: scroll;
+    }
+  }
+
+.hike-detail-container {
+  min-height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 3rem;
+}
+
+.hike-detail-overlay {
+    min-height: 500px;
+    color: #FAF9F6;
+    text-shadow: #000 0 0 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hike-detail-header {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    padding: 1.25rem;
+
+}
+
+.hike-detail-overlay h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+.hike-detail-overlay h2 {
+    font-size: 1.75rem;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+.hike-detail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    background-color: #FAF9F6 ;
+    padding: 1rem;
+    max-width: 66%;
+    margin: 0 auto;
+}
+
+.stats {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    margin-bottom: 20px;
+    padding: 0;
+    font-size: 0.5rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.fa-solid {
+    margin-right: 0.2rem;
+}
+
+.tags {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    font-size: 0.5rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.tag-entry{
+    margin: 0.2rem;
+    padding: 0.2rem;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 1px solid #FAF9F6;
+    border-radius: 0.2rem;
+}
+
+.tag-entry:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 1px solid #FAF9F6;
+    border-radius: 0.2rem;
+}
+
+.description p {
+    font-size: 0.7rem;
+    line-height: 1.5;
+    font-weight: 100;
+    margin: 0;
+    padding: 1rem;
+}
+
