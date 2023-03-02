@@ -6,7 +6,7 @@ import "./HikeDetail.css";
 function HikeDetail(props) {
     const params = useParams();
     const { id } = params;
-    const { title, difficulty, routeType, shortDescription, tags, elevationGain, length, estimatedTime, park, image, mapLink } = data[id];
+    const { title, difficulty, routeType, shortDescription, tags, elevationGain, length, estimatedTime, park, image } = data[id];
 
     return (
         <>
