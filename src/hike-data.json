@@ -1,7 +1,7 @@
 [ 
     {
     "title": "Grouse Grind",
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "routeType": "Point to Point",
     "shortDescription": "Explore this 1.8-km point-to-point trail near North Vancouver, British Columbia. Generally considered a challenging route, it takes an average of 1 h 40 min to complete. This is a very popular area for hiking and running, so you'll likely encounter other people while exploring. The best times to visit this trail are April through October. You'll need to leave pups at home — dogs aren't allowed on this trail.",
     "tags": [
@@ -27,7 +27,7 @@
 
     {
     "title": "Joffre Lakes",
-    "difficulty": "Moderate",
+    "difficulty": "moderate",
     "routeType": "Out and Back",
     "shortDescription": "Discover this 7.4-km out-and-back trail near Nesuch 3, British Columbia. Generally considered a moderately challenging route. This is a very popular area for camping, hiking, and snowshoeing, so you'll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime. You'll need to leave pups at home — dogs aren't allowed on this trail.",
     "tags": [
@@ -49,7 +49,7 @@
     ],
     "elevationGain": 491,
     "length": 7.4,
-    "estimatedTime": "",
+    "estimatedTime": "2h 30min",
     "park": "Joffre Lakes Provincial Park",
     "image": "JoffreLakes.jpeg",
     "mapLink": ""
@@ -57,7 +57,7 @@
 
     {
     "title": "Stawamus Chief",
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "routeType": "Loop",
     "shortDescription": "Check out this 6.0-km loop trail near Squamish, British Columbia. Generally considered a challenging route. This is a very popular area for camping, hiking, and rock climbing, so you'll likely encounter other people while exploring. The best times to visit this trail are March through October. Dogs are welcome, but must be on a leash.",
     "tags": [
@@ -83,7 +83,7 @@
 
     {
     "title": "Garibaldi Lake Trail",
-    "difficulty": "Moderate",
+    "difficulty": "moderate",
     "routeType": "Out and Back",
     "tags": [
         "Backpacking",
@@ -108,7 +108,7 @@
 
 {
     "title": "Saint Marks Summit",
-    "difficulty": "Moderate",
+    "difficulty": "moderate",
     "routeType": "Out and Back",
     "shortDescription": "Enjoy this 10.5-km out-and-back trail near West Vancouver, British Columbia. Generally considered a moderately challenging route, it takes an average of 3 h 53 min to complete. This is a very popular area for birding and hiking, so you'll likely encounter other people while exploring. The best times to visit this trail are July through November. Dogs are welcome, but must be on a leash.",
     "tags": [
@@ -130,7 +130,7 @@
 
 {
     "title": "Dog Mountain Trail",
-    "difficulty": "Moderate",
+    "difficulty": "moderate",
     "routeType": "Out and Back",
     "shortDescription": "Experience this 5.6-km out-and-back trail near North Vancouver, British Columbia. Generally considered a moderately challenging route, it takes an average of 1 h 34 min to complete. This is a very popular area for hiking, snowshoeing, and running, so you'll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime. Dogs are welcome, but must be on a leash.",
     "tags": [
@@ -150,12 +150,12 @@
     "estimatedTime": "1h 34min",
     "park": "Mount Seymour Provincial Park",
     "image": "DogMountainTrail.jpeg",
-    "mapLink": ""
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10392.534647680499!2d-122.949113!3d49.3685438!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd0ed7f181994136!2sDog%20Mountain%20Trail!5e0!3m2!1sen!2sca!4v1677464711576!5m2!1sen!2sca"
     },
 
 {
     "title": "Norvan Falls",
-    "difficulty": "Moderate",
+    "difficulty": "moderate",
     "routeType": "Out and Back",
     "shortDescription": "Discover this 13.8-km out-and-back trail near North Vancouver, British Columbia. Generally considered a moderately challenging route, it takes an average of 3 h 38 min to complete. This is a very popular area for hiking and running, so you'll likely encounter other people while exploring. The best times to visit this trail are April through November. Dogs are welcome, but must be on a leash.",
     "tags": [

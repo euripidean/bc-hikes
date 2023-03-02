@@ -10,7 +10,7 @@ function HikeDetail(props) {
 
     return (
         <>
-        <div className="hike-detail-container" style={{'background-image': `url(${process.env.PUBLIC_URL}/images/${image})`}}>
+        <div className="hike-detail-container" style={{'backgroundImage': `url(${process.env.PUBLIC_URL}/images/${image})`}}>
             <div className="hike-detail-overlay">
             <div className="hike-detail-header">
             <h1>{title}</h1>
@@ -20,11 +20,11 @@ function HikeDetail(props) {
         
         <div className="hike-detail">
         <div className="stats">
-            { difficulty === "Hard"? <p className="difficulty"><i class="fa-solid fa-circle-exclamation">&nbsp;</i>{difficulty}</p> : <p className="difficulty"><i class="fa-solid fa-circle-check">&nbsp;</i>{difficulty}</p> }
-            <p className="type"><i class="fa-solid fa-location-dot">&nbsp;</i>{routeType}</p>
-            <p className="elevation"><i class="fa-solid fa-arrow-trend-up">&nbsp;</i>{elevationGain}m</p>
-            <p className="length"><i class="fa-regular fa-map">&nbsp;</i>{length}km</p>
-            <p className="time"><i class="fa-regular fa-clock">&nbsp;</i> {estimatedTime}</p>
+            { difficulty === "Hard"? <p className="difficulty"><i className="fa-solid fa-circle-exclamation">&nbsp;</i>{difficulty}</p> : <p className="difficulty"><i className="fa-solid fa-circle-check">&nbsp;</i>{difficulty}</p> }
+            <p className="type"><i className="fa-solid fa-location-dot">&nbsp;</i>{routeType}</p>
+            <p className="elevation"><i className="fa-solid fa-arrow-trend-up">&nbsp;</i>{elevationGain}m</p>
+            <p className="length"><i className="fa-regular fa-map">&nbsp;</i>{length}km</p>
+            <p className="time"><i className="fa-regular fa-clock">&nbsp;</i> {estimatedTime}</p>
         </div>
         <div className="tags">
             {tags.map((tag, index) => {
@@ -33,9 +33,6 @@ function HikeDetail(props) {
         </div>
         <div className="description">
             <p>{shortDescription}</p>
-        </div>
-        <div className="map">
-            <p>Map maybe goes here.</p>
         </div>
         </div>
         </div>

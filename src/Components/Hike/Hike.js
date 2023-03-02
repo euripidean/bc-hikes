@@ -8,7 +8,7 @@ const Hike = (props) => {
     return (
         <div className="hike">
             <Link to={`/hikes/${id}`}>
-                <div className="hike-image" style={{'background-image': `url(${process.env.PUBLIC_URL}/images/${image})`}}>
+                <div className="hike-image" style={{'backgroundImage': `url(${process.env.PUBLIC_URL}/images/${image})`}}>
                     </div>
             </Link>
             <h2>
