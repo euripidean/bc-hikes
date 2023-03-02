@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bc-hikes/static/css/main.72c12734.css",
+    "main.js": "/bc-hikes/static/js/main.b5593676.js",
+    "static/js/787.f46d6777.chunk.js": "/bc-hikes/static/js/787.f46d6777.chunk.js",
+    "index.html": "/bc-hikes/index.html",
+    "main.72c12734.css.map": "/bc-hikes/static/css/main.72c12734.css.map",
+    "main.b5593676.js.map": "/bc-hikes/static/js/main.b5593676.js.map",
+    "787.f46d6777.chunk.js.map": "/bc-hikes/static/js/787.f46d6777.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c12734.css",
+    "static/js/main.b5593676.js"
+  ]
+}
